@@ -34,3 +34,6 @@ git checkout master # переключаемся в ветку master
 
 git branch -d new_page_header # удаляем ветку new_page_header_**
 ```
+
+
+[клац](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkulturologia.ru%2Fblogs%2F270323%2F55818%2F&psig=AOvVaw1RGgk0dOa0cubaCbNau7Zj&ust=1713958512989000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjJlpWf2IUDFQAAAAAdAAAAABAJ)
