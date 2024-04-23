@@ -13,7 +13,9 @@ git commit -a -m "Новая шапка: смена логотипа" # дела
 
 git checkout -b footer_hotfix # создаём ветку (основанную на master) для решения проблемы
 subl inc/footer.html # устраняем баг и сохраняем разметку «подвала»
-git commit -a -m "Исправление контакта в подвале" # делаем коммит
+
+**_git commit -a -m "Исправление контакта в подвале" # делаем коммит_**
+
 git checkout master # переключаемся в ветку master
 git merge footer_hotfix # вливаем в master изменения из ветки footer_hotfix
 git branch -d footer_hotfix # удаляем ветку footer_hotfix
