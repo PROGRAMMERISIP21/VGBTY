@@ -36,4 +36,4 @@ git branch -d new_page_header # удаляем ветку new_page_header_**
 ```
 
 
-[клац](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkulturologia.ru%2Fblogs%2F270323%2F55818%2F&psig=AOvVaw1RGgk0dOa0cubaCbNau7Zj&ust=1713958512989000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjJlpWf2IUDFQAAAAAdAAAAABAJ)
+[клац](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D0%BE%D0%BF%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%D1%8F)
