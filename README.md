@@ -29,6 +29,7 @@ subl inc/header.html # редактируем и сохраняем размет
 **_git commit -a -m "Новая шапка: смена навигации" # делаем коммит (работа над «шапкой» завершена)_**
 
 git checkout master # переключаемся в ветку master
+
 **_git merge new_page_header # вливаем в master изменения из ветки new_page_header_**
 
 git branch -d new_page_header # удаляем ветку new_page_header_**
