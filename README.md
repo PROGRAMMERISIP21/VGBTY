@@ -4,6 +4,10 @@
  **bash**
 _Есть master (публичная версия сайта), хотим масштабно что-то поменять (переверстать «шапку»), но по ходу работ возникает необходимость подправить критичный баг (неправильно указан контакт в «подвале»)._
 
+:shipit:
+
+:shipit::shipit::shipit::shipit:
+
 #git checkout -b new_page_header # создадим новую ветку для задачи изменения «шапки» и перейдём в неё
 ***subl inc/header.html # редактируем и сохраняем разметку «шапки»***
 
@@ -18,9 +22,30 @@ subl inc/footer.html # устраняем баг и сохраняем разм�
 
 git checkout master # переключаемся в ветку master
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.getgems.io/sRFb1Mhy9voLE_ddT6On9PzWU6FtLAjbVkXGVYwdSJA/rs:fill:1000:0:1/g:ce/czM6Ly9nZXRnZW1zLW5mdC9uZnQvYy82NjIwMWRmYTgwMTM0NDE2Mjc5OTMwMWIvMTIzL2ltYWdlLnBuZw)
+
 **_git merge footer_hotfix # вливаем в master изменения из ветки footer_hotfix_**
 
+[Клик](https://pages.github.com/)
+
+
+
 git branch -d footer_hotfix # удаляем ветку footer_hotfix
+
+> [!NOTE]
+> Бегемоты тоже люди
+
+> [!TIP]
+> Люблю того кто это читает :shipit:
+
+> [!IMPORTANT]
+> я хомяк :shipit:
+
+> [!WARNING]
+> опасно это читать
+
+> [!CAUTION]
+> мяу
 
 **_git checkout new_page_header # переключаемся в ветку new_page_header для продолжения работ над «шапкой»_**
 
@@ -31,9 +56,3 @@ subl inc/header.html # редактируем и сохраняем размет
 git checkout master # переключаемся в ветку master
 
 **_git merge new_page_header # вливаем в master изменения из ветки new_page_header_**
-
-git branch -d new_page_header # удаляем ветку new_page_header_**
-```
-
-
-[клац]("https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D0%BE%D0%BF%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%D1%8F")
